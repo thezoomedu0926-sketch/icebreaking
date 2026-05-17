@@ -1,0 +1,8 @@
+{
+  "name": "Remix: 퍼실전환용 아이스브레이킹 카드 생성기",
+  "description": "교육 주제와 학습자 단계에 맞춘 맞춤형 아이스브레이킹 질문 카드를 생성하는 전문 퍼실리테이터 도구입니다.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
